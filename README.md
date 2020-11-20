@@ -29,7 +29,7 @@ tags: ready
 Install Ruby and then run:
 
 ```
-gem install bundler jekyll
+gem install bundler
 bundle
 ```
 
