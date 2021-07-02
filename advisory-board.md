@@ -101,6 +101,27 @@ Areas of Focus
 <br />
 <br />
 
+### Sarah Mei
+
+<img alt="Bridge Foundry Advisor Sarah Mei" class="img-circle bridgefoundry-advisors-imgs" src="https://pbs.twimg.com/profile_images/875863731355369472/e3NKFtL1_400x400.jpg">
+
+Sarah Mei ([@sarahmei](https://twitter.com/sarahmei)) co-founded RailsBridge and Bridge Foundry. She is an
+agent of change, influencing the industry to make better software and provide better workplaces for the
+humans who create software. She is an experienced software developer and regularly speaks at tech conferences. She is a
+Director of [Ruby Central](http://rubycentral.org/) and Chief Consultant of [DevMynd](https://www.devmynd.com/). 
+
+Areas of Focus
+
+- Technical Leadership
+- Open Source
+- Coding Education 
+- Culture Change
+
+<br />
+<br />
+<br />
+
+
 ### Vidya Spandana
 
 <img alt="Bridge Foundry Advisor Vidya Spandana" class="img-circle bridgefoundry-advisors-imgs" src="https://pbs.twimg.com/profile_images/632773269108621312/Z8bhwTNu.jpg">
